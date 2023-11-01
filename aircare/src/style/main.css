@@ -1,0 +1,42 @@
+  @import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100;0,200;0,300;0,500;1,100;1,200;1,400&family=Reenie+Beanie&family=Roboto:wght@100;300;400;500&display=swap');
+
+:root {
+  --primary-bg: #79B937;;
+  --secondary-bg: #343A40;
+  --theriary-bg: #525659;
+  --text-color: #CCCECF;
+  --custom-font-family: 'Exo 2', sans-serif;
+}
+
+.report-problem-first {
+    color: #000;
+    text-align: center;
+    font-family: var(--custom-font-family);
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 96px */
+    letter-spacing: -1.216px;
+}
+
+.report-problem-second {
+    color: #000;
+    text-align: center;
+    font-family: var(--custom-font-family);
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; /* 60px */
+    letter-spacing: -0.76px;
+}
+
+.report-problem-third {
+    color: #000;
+    text-align: center;
+    font-family: var(--custom-font-family);
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 150%; /* 48px */
+    letter-spacing: -0.608px;
+}

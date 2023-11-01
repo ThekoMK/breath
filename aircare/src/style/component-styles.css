@@ -1,0 +1,16 @@
+.btn-rounded {
+    border-radius: 15px;
+    background: #fff;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.btn-primary {
+    background-color: var(--primary-bg);
+    color: #FFF;
+    font-family: var(--custom-font-family);
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+}
